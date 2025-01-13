@@ -15,4 +15,6 @@ class Profilemodel {
       required this.price,
       required this.image,
       required this.isadded});
+
+
 }
